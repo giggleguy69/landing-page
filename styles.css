@@ -29,18 +29,31 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+
 .hero {
     background-color: #f4f4f4;
     padding: 50px;
     text-align: center;
-  }
-  
-  .hero h1 {
+}
+
+.hero h1 {
     color: #333;
-  }
-  
-  .hero p {
+}
+
+.hero p {
     color: #666;
     font-size: 20px;
-  }
-  
+}
+
+.feature {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.feature h3 {
+    margin-top: 0;
+    color: #00796b;
+}
