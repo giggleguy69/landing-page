@@ -97,3 +97,16 @@ footer {
 #contact input[type="submit"]:hover {
     background-color: #555;
 }
+
+.service {
+    border: 1px solid #00796b;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #e0f7fa;
+}
+
+.service h3 {
+    margin-top: 0;
+    color: #00796b;
+}
