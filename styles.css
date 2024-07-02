@@ -57,37 +57,37 @@ footer {
     margin-top: 0;
     color: #00796b;
 }
+
 #contact {
     padding: 2em;
     background-color: #f4f4f4;
     margin: 2em 0;
-  }
-  
-  #contact form {
+}
+
+#contact form {
     display: flex;
     flex-direction: column;
-  }
-  
-  #contact label {
+}
+
+#contact label {
     margin-top: 1em;
-  }
-  
-  #contact input, #contact textarea {
+}
+
+#contact input, #contact textarea {
     padding: 0.5em;
     margin-top: 0.5em;
     border: 1px solid #ccc;
-  }
-  
-  #contact input[type="submit"] {
+}
+
+#contact input[type="submit"] {
     background-color: #333;
     color: white;
     border: none;
     padding: 1em;
     margin-top: 1em;
     cursor: pointer;
-  }
-  
-  #contact input[type="submit"]:hover {
-    background-color: #555;
-  }
+}
 
+#contact input[type="submit"]:hover {
+    background-color: #555;
+}
