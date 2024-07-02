@@ -21,6 +21,9 @@ nav a {
 section {
     padding: 2em;
     margin: 2em 0;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 footer {
@@ -31,17 +34,20 @@ footer {
 }
 
 .hero {
-    background-color: #f4f4f4;
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
     padding: 50px;
     text-align: center;
+    color: white;
 }
 
 .hero h1 {
-    color: #333;
+    color: #fff;
 }
 
 .hero p {
-    color: #666;
+    color: #ddd;
     font-size: 20px;
 }
 
